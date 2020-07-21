@@ -10,6 +10,7 @@ group = "fr.brouillard.oss.gradle"
 
 jgitver {
     useDirty = true
+    useDistance = false
 }
 
 repositories {
