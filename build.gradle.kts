@@ -38,7 +38,7 @@ pluginBundle {
 }
 
 dependencies {
-    implementation("fr.brouillard.oss:jgitver:0.12.0")
+    implementation("fr.brouillard.oss:jgitver:0.13.1")
 }
 
 java {
